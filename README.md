@@ -5,4 +5,4 @@
 git clone 源码，运行mac app即可
 
 # 截图
-https://github.com/HaoXianSen/ImageChecker/blob/main/snapshot/snapshot1.jpg
+[](https://github.com/HaoXianSen/ImageChecker/blob/main/snapshot/snapshot1.jpg)
